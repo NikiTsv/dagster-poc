@@ -1,5 +1,6 @@
 1. create and activate venv
 2. pip install dagster dagster-webserver pandas dagster-duckdb
+3. dagster dev -f mfs_etl/definitions.py
 
 # Dagster Components Overview
 
